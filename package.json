@@ -1,6 +1,6 @@
 {
   "name": "rsbuild-plugin-svg",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": "https://github.com/fuxichen/rspack-plugin-svg",
   "description": "Rsbuild plugin to load SVG files as Vue components",
   "keywords": ["rsbuild-plugin", "rsbuild", "rspack", "vue", "svg"],
@@ -23,7 +23,7 @@
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
   "typings": "types/index.d.ts",
-  "files": ["dist"],
+  "files": ["dist", "types"],
   "scripts": {
     "build": "tsup",
     "dev": "tsup --watch",
