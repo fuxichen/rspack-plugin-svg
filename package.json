@@ -1,7 +1,15 @@
 {
   "name": "rsbuild-plugin-svg",
-  "version": "0.0.0",
-  "repository": "https://github.com/rspack-contrib/rsbuild-plugin-template",
+  "version": "0.0.1",
+  "repository": "https://github.com/fuxichen/rspack-plugin-svg",
+  "description": "Rsbuild plugin to load SVG files as Vue components",
+  "keywords": ["rsbuild-plugin", "rsbuild", "rspack", "vue", "svg"],
+  "author": "fuxichen",
+  "email": "632951357@qq.com",
+  "bugs": {
+    "url": "https://github.com/fuxichen/rspack-plugin-svg/issues"
+  },
+  "homepage": "https://github.com/fuxichen/rspack-plugin-svg#readme",
   "license": "MIT",
   "type": "module",
   "exports": {
