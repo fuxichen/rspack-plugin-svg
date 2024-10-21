@@ -1,6 +1,6 @@
 # rsbuild-plugin-svg
 
-Vite plugin to load SVG files as Vue components, using SVGO for optimization.
+Rsbuild plugin to load SVG files as Vue components, using SVGO for optimization.
 
 Fork by [vite-svg-loader](https://github.com/jpkleemans/vite-svg-loader)
 
